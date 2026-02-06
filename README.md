@@ -47,9 +47,8 @@
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Portfolio Website](#) *(optional)*  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](www.linkedin.com/in/nivedhasivakumar)    
+- [Email](nivedha_sivakumar@outlook.com)  
 
 ---
 ✨ *“Turning data into decisions, and insights into impact.”*
