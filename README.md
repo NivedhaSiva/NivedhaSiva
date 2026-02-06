@@ -1,4 +1,4 @@
-![Cover Image]()
+![Cover Image](Blue and White Minimalist BI Consultant LinkedIn Banner (2).jpg)
 
 # Hi there, I'm Nivedha Sivakumar 👋  
 
