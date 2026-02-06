@@ -1,3 +1,5 @@
+![Cover Image]()
+
 # Hi there, I'm Nivedha Sivakumar 👋  
 
 🎯 **Data Analyst | AI/ML Practitioner | Educator**  
