@@ -33,12 +33,12 @@
 ### 📊 SQL Case Studies
 - Complex queries using **joins, constraints, unions, and window functions**  
 - Real-world datasets for business insights  
-- [View Repository](#)  
+- [View Repository]()  
 
 ### 🤖 AI/ML Experiments
 - Predictive modeling & customer segmentation prototypes  
 - Focus on **clarity, reproducibility, and business impact**  
-- [View Repository](#)  
+- [View Repository](https://github.com/NivedhaSiva/NYC311)  
 ---
 
 ## 🌐 Connect With Me
