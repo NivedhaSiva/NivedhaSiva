@@ -28,7 +28,7 @@
 ### 🚖 Uber Rides Power BI Dashboard
 - Interactive dashboard with **navigation bars, branded visuals, and KPIs**  
 - Analyzed ride demand, revenue trends, and customer behavior  
-- [View Repository](#) (https://github.com/NivedhaSiva/PowerBi_Uber-Data-Analytics-Dashboard) 
+- [View Repository](https://github.com/NivedhaSiva/PowerBi_Uber-Data-Analytics-Dashboard) 
 
 ### 📊 SQL Case Studies
 - Complex queries using **joins, constraints, unions, and window functions**  
